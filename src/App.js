@@ -8,7 +8,7 @@ import "./App.css";
 // http://www.omdbapi.com/apikey.aspx?VERIFYKEY=716a3e00-0726-4c03-b981-59f4e7b78676
 // 5f67c84c
 
-const API_URL = 'http://www.omdbapi.com?apikey=5f67c84c';
+const API_URL = 'https://www.omdbapi.com?apikey=5f67c84c';
 
 const App = () => {
     const [searchTitle, setSearchTitle] = useState('');
