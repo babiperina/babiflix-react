@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/babiflix-react/static/css/main.dd0c071e.css",
-    "main.js": "/babiflix-react/static/js/main.a9966b0c.js",
+    "main.js": "/babiflix-react/static/js/main.c27fdd03.js",
     "static/media/search.svg": "/babiflix-react/static/media/search.0d157dfe07c6b1865f56736971cdf1cd.svg",
     "index.html": "/babiflix-react/index.html",
     "main.dd0c071e.css.map": "/babiflix-react/static/css/main.dd0c071e.css.map",
-    "main.a9966b0c.js.map": "/babiflix-react/static/js/main.a9966b0c.js.map"
+    "main.c27fdd03.js.map": "/babiflix-react/static/js/main.c27fdd03.js.map"
   },
   "entrypoints": [
     "static/css/main.dd0c071e.css",
-    "static/js/main.a9966b0c.js"
+    "static/js/main.c27fdd03.js"
   ]
 }
